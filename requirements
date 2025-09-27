@@ -1,0 +1,6 @@
+datasets
+pandas
+pyarrow
+transformers
+accelerate
+lightning
